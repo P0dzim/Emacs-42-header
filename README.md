@@ -3,7 +3,7 @@ Emacs Lisp script to insert 42 header
 
 > ⚠️ **Warning:** This code was written by an A.I. with the goal of replicating the original vim script.
 
-## 🚀 Installation
+## Installation
 
 ### 1. Configure user
  Open file `stdheader.el` and edit the fisrt lines with your user and e-mail:
